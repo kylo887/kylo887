@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kylo887
-- 👀
+Hi, I’m @kylo887
 
 <!---
 kylo887/kylo887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
